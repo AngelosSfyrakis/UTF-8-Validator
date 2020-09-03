@@ -10,3 +10,10 @@ Developed as a project for the Introduction to Programming class at the National
 
  The first byte indicates the number of bytes in the sequence. Reading from a stream can instantaneously decode each individual fully received sequence, without first having to wait for either the first byte of a next sequence or an end-of-stream indication. The length of multi-byte sequences is easily determined by humans as it is simply the number of high-order 1s in the leading byte. An incorrect character will not be decoded if a stream ends mid-sequence.
 
+# Compilation and Input
+
+-To compile:
+```bash
+~$ make valgrind
+```
+

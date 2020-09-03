@@ -19,8 +19,9 @@ gcc utf8validate.c -o name
 Input must be a text file for the programm to run.
 -To run:
 ```bash
-./name < text
+./name < text_file_name
 ```
-
+# Notes
+In this assignment students were not allowed to use arrays(strings included).
 
 

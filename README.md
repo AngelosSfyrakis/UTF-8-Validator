@@ -16,7 +16,7 @@ Developed as an assignment for the Introduction to Programming class at the Nati
 ```bash
 gcc utf8validate.c -o name
 ```
-Input must be a text file for the programm to run.
+Input must be a text file for the program to run.
 
 -To run:
 ```bash

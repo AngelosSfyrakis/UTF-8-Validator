@@ -14,7 +14,12 @@ Developed as a project for the Introduction to Programming class at the National
 
 -To compile:
 ```bash
-gcc utf8validate.c
+gcc utf8validate.c -o name
+```
+Input must be a text file for the programm to run.
+-To run:
+```bash
+./name < text
 ```
 
 

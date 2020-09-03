@@ -1,4 +1,5 @@
 # UTF-8-Validator
+Developed as a university project for the Introduction to Programming class at the National Kapodistrian University of Athens by Angelos Sfyrakis.
 
 
 # What is UTF-8- ?

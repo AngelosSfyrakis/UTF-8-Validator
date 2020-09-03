@@ -26,6 +26,6 @@ Input must be a text file for the program to run.
 ./name < text_file_name
 ```
 # Notes
-In this assignment students were not allowed to use arrays(strings included).
+In this assignment students were given instructions not to use arrays(strings included).
 
 

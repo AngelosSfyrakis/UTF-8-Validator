@@ -14,6 +14,8 @@ Developed as a project for the Introduction to Programming class at the National
 
 -To compile:
 ```bash
-~$ make valgrind
+gcc utf8validate.c
 ```
+
+
 
